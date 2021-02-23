@@ -1,5 +1,5 @@
 # BBB_BOT
-Script feito para a automação de votações nos paredões do BBB 21, sem a menor intenção de prejudicar ou interferir de maneira inumana o programa.
+Script feito para a automação de votações nos paredões do BBB21, sem a menor intenção de prejudicar ou interferir de maneira inumana o programa.
 
 ## Requisitos
 Instalar Python na versão 3.9 ou superior (https://www.python.org/downloads/).
