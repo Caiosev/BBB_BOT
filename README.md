@@ -29,4 +29,4 @@ Resolução: Tire outro print do nome do participante e deixe a janela do navega
 "Captcha NÃO Encontrado": o script não conseguiu comparar as imagens do captcha (check.png) com o captcha em seu navegador, É normal acontecer algumas vezes, ele irá tentar reconhecer a imagem novamente automaticamente. Se o erro persistir, tire outro print do captcha e substitua o check.png com ele.
 
 # Atenção
-O script não irá burlar o teste do captcha. Se ele aparecer, feche a janela e tente novamente depois de algumas horas. O delay alto entre as ações é afim de evitar isso (o delay pode ser mudado no código-fonte, não recomendo).
+O script não irá burlar o teste do captcha. Se ele aparecer, feche a janela e tente novamente depois de algumas horas. O delay alto entre as ações é afim de evitar isso. O delay pode ser mudado no código-fonte, mesmo não sendo recomendado).
