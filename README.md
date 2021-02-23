@@ -21,6 +21,7 @@ De preferência, não deixe a janela de seu navegador maximizada, deixe-a lado a
 
 # Como utilizar?
 Abra o site da votação e deixe-o na página onde aparece as pessoas que estão concorrendo no paredão. Abra o script.py com o python 3.9 e logo depois, rapidamente, clique uma alguma parte em branco do site e espere a mágica acontecer.
+Não se esqueça de minimizar a pasta BBB_BOT, pois pode acontecer de o seu mouse apontar para a imagem que esta dentro da pasta e não para o nome que está no site.
 
 ## Possíveis Erros
 Nome NÃO encontrado: o script não conseguiu encontrar nenhuma imagem em sua tela que seja parecida com o nome.
