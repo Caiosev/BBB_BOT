@@ -5,8 +5,8 @@ Script feito para a automação de votações nos paredões do BBB21, sem a meno
 Instalar Python na versão 3.9 ou superior (https://www.python.org/downloads/).
 Após a instalação do Python,
 abrir o cmd e utilizar os seguintes comandos:
-`pip install pillow`, (para a instalação do pillow);
-`pip install pyautogui`,(para a instalação do pyautogui).
+`pip install pillow`, para a instalação do pillow;
+`pip install pyautogui`,para a instalação do pyautogui.
 
 ### Opcional: 
 Instalar Lightshot para captura de tela (https://app.prntscr.com/pt-br/)
