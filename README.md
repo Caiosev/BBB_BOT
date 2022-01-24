@@ -2,7 +2,7 @@
 Script feito para a automação de votações nos paredões do BBB21, sem a menor intenção de prejudicar ou interferir de maneira inumana o programa.
 
 ## Requisitos
-Instalar Python na versão 3.9 ou superior (https://www.python.org/downloads/).
+Instalar Python na versão 3.9.x (https://www.python.org/downloads/).
 Após a instalação do Python,
 abrir o cmd e utilizar os seguintes comandos:
 `pip install pillow`, para a instalação do pillow;
